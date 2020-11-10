@@ -1,0 +1,12 @@
+# Игнорировать pdf файлы
+*.pdf
+# Игнорировать docx файлы
+*.docx
+# Игнорировать doc файлы
+*.doc
+# Игнорировать drawio файлы
+*.drawio
+# Игнорировать .DS_Store файлы
+.DS_Store
+**/.DS_Store
+*.DS_Store
